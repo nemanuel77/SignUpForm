@@ -10,4 +10,4 @@ android's "Toast" function depending on correct or incorrect input. If the user 
 fill out all fields, a toast display informs the user of their mistake. If the passwords do not match, 
 a similar display notifies the user, and finally, upon user info passing validation, a welcome toast. 
 
-
+![Assignment 2](https://i.imgur.com/okLBMy3.png "Sign Up Form")
