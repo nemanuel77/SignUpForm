@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SignUpForm</string>
+    <string name ="registerUser">Enter Name</string>
+    <string name="registerEmail">Enter an Email address</string>
+    <string name="registerPhone">Enter Phone # (10 Digit)</string>
+    <string name="registerPass">Enter Password</string>
+    <string name="registerPassConfirm">Confirm Password</string>
+</resources>
